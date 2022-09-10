@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{73977B32-3D31-4A67-A2EE-4D892E451F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTr.Web", "src\BlazorTr.Web\BlazorTr.Web.csproj", "{169BD4FD-08F8-4F22-910A-13F033AF777A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169BD4FD-08F8-4F22-910A-13F033AF777A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169BD4FD-08F8-4F22-910A-13F033AF777A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169BD4FD-08F8-4F22-910A-13F033AF777A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169BD4FD-08F8-4F22-910A-13F033AF777A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{169BD4FD-08F8-4F22-910A-13F033AF777A} = {73977B32-3D31-4A67-A2EE-4D892E451F09}
+	EndGlobalSection
+EndGlobal
